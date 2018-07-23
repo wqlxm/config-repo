@@ -1,5 +1,5 @@
 server:
-  time: V-2.0-updateversion1233
+  time: V-master-updateversion1233
 #整合redis实现session共享 start
 management:
   endpoints:
