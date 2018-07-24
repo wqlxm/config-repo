@@ -1,5 +1,3 @@
-server:
-  port: 1100
 zuul:
   ignoredServices: '*' #忽略所有未配置的service,每一个微服务的路由配置都需要配置
   host:
